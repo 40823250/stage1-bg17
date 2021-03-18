@@ -27,12 +27,6 @@
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
-<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
 </v>
 </v>
 </v>
@@ -154,7 +148,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;stage1-bg17&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -227,76 +221,6 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 &lt;p&gt;經過這次的兩人協同，學會如何互相協助，在製作中也一直碰到難題，例如倉儲的建立，程式的模擬，以及溝通上的問題。透過這次課程學到了很多，倉儲建立、coppeliasim模擬，這次成果可能沒有很完美，但透過這次的經驗，能使我們在下一個作品能早線的更好。&lt;/p&gt; 
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
 &lt;/section&gt;
 
 </t>
